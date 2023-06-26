@@ -1,11 +1,8 @@
-body {
-  background-color: #435b66;
-}
 .expense-item {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  box-shadow: 0px 4px 10px rgb(37, 34, 243);
+  /* box-shadow: 0px 4px 10px rgb(37, 34, 243); */
   padding: 0.5rem;
   margin: 1.3rem 0.2rem;
   background-color: #f7fbfc;
