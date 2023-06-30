@@ -1,5 +1,6 @@
 import React from 'react';
 import Expanses from './components//expense/Expanses';
+import ExpenseForm from './components/newExpenseForm/expenseForm';
 
 const App = () => {
   const ExpansesData = [
@@ -27,6 +28,7 @@ const App = () => {
     <>
       <div className=''>
         <h1>Hello its an app</h1>
+        <ExpenseForm />
         <Expanses ExpansesData={ExpansesData} />
       </div>
     </>
