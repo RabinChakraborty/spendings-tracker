@@ -1,5 +1,5 @@
 import React from 'react';
-import Expanses from './components/Expanses';
+import Expanses from './components//expense/Expanses';
 
 const App = () => {
   const ExpansesData = [

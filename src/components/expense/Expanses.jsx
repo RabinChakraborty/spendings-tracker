@@ -1,6 +1,6 @@
 import ExpanseItems from './ExpanseItems';
 import './Expanses.css';
-import Card from './card';
+import Card from '../ui/card';
 
 function Expanses(ExpansesData) {
   return (
